@@ -16,6 +16,7 @@
 - [tcb-js-sdk](https://github.com/TencentCloudBase/tcb-js-sdk) - JavaScript SDK；
 - [cloudbase-manager-node](https://github.com/TencentCloudBase/cloudbase-manager-node) - manager-node 支持开发者通过接口形式对云开发提供的云函数、数据库、文件存储等资源进行创建、管理、配置等操作；
 - [tcb-manager-php](https://github.com/TencentCloudBase/tcb-manager-php) - 功能同上；
+- [tcb-php-sdk](https://github.com/TencentCloudBase/tcb-php-sdk)  - TCB 提供开发应用所需服务和基础设施。tcb-php-sdk 让你可以在服务端（如腾讯云云函数或 CVM 等）使用 php 服务访问 TCB 的的服务；
 - [cloudbase-cli](https://github.com/TencentCloudBase/cloud-base-cli) - 可编程CLI管理工具；
 - [tcb-admin-node](https://github.com/TencentCloudBase/tcb-admin-node) - 在服务端（如腾讯云云函数或CVM等）使用Node.js服务访问TCB的的服务；
 - [tcb-service-sdk](https://github.com/TencentCloudBase/tcb-service-sdk) - 云开发增值服务SDK（小程序/Node）；
